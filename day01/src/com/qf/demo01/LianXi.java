@@ -12,9 +12,14 @@ public class LianXi {
 		int i;
 		j = j++;
 		i = j++;
-		int result;
-		result = j + ++j * i++;
-		System.out.println(result);
+		String result;
+		Scanner scanner=  new Scanner(System.in);
+//		String string = scanner.nextLine();
+//		boolean flag="般配".equals(string);
+//		result= flag?"回答正确":"不敢配".equals(string)?"你在想想":"请重新输入";
+		double d = 37.2;
+		System.out.println(d%10);
+		
 	}
 
 }
