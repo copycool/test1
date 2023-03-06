@@ -1,4 +1,4 @@
-package com.qf.zuoye;
+package com.qf.zuoye.zy01;
 
 /**
  * 定义两个变量int a = 10 int b = 20 ,交换两个变量的值
@@ -18,7 +18,7 @@ public class SiKao01 {
 // 		super();
 // 		this.x = x;
 // 		this.y = y;
-	}
+//	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a = 10;

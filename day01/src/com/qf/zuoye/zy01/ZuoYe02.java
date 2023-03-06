@@ -1,4 +1,4 @@
-package com.qf.zuoye;
+package com.qf.zuoye.zy01;
 /**
  * 定义⼀个三位整数，分别输出其个位、⼗位和百位
  * @param args

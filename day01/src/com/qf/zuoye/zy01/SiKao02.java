@@ -1,8 +1,8 @@
-package com.qf.zuoye;
+package com.qf.zuoye.zy01;
 
 import java.util.Scanner;
 import com.qf.demo01.MathQuYu;
-import com.qf.zuoye.SiKao01;
+import com.qf.zuoye.zy01.SiKao01;
 
 /**
  * 某个公司采⽤公⽤电话传递数据，数据是四位的整数，在传递过程中是加密的， 加密规则如下：每位数字都加上3然后除以10的余数代替该数字，

@@ -1,4 +1,4 @@
-package com.qf.zuoye;
+package com.qf.zuoye.zy01;
 
 /**
  * 完成打印输出Java所有基本数据类型及所占字节数，格式如效果图。 类型 所占字节 取值范围 占多少位 byte 1字节 -2^7~2^7-1 8位

@@ -1,4 +1,4 @@
-package com.qf.zuoye;
+package com.qf.zuoye.zy01;
 
 import java.util.Scanner;
 
