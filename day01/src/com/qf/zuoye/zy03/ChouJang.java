@@ -2,6 +2,11 @@ package com.qf.zuoye.zy03;
 
 import java.util.Arrays;
 
+/**
+ * 同一奖池多张彩票抽奖
+ * @author XC
+ *
+ */
 public class ChouJang {
 
 	public static void main(String[] args) {

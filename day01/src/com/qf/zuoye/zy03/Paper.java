@@ -4,6 +4,11 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+/**
+ * 单次抽奖
+ * @author XC
+ *
+ */
 public class Paper {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -21,10 +26,10 @@ public class Paper {
 		 * 选号
 		 */
 		int[] b = paper.getPrizePool();
-		for (int i = 0; i < b.length; i++) {
-			System.out.println("请选择第" + i + "个号码");
-			b[i] = sca.nextInt();
-		}
+//		for (int i = 0; i < b.length; i++) {
+//			System.out.println("请选择第" + i + "个号码");
+//			b[i] = sca.nextInt();
+//		}
 		System.out.println("选号是：");
 		System.out.println(Arrays.toString(b));
 		/*

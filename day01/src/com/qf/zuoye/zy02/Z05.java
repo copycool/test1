@@ -29,16 +29,16 @@ public class Z05 {
 		case 0:
 			switch (integral/2000) {
 			case 0:
-				System.out.println("打九折");
+				System.out.println("打九折"+"，实付金额："+integral*0.9);
 				break;
 			case 1:
-				System.out.println("打八折");
+				System.out.println("打八折"+"，实付金额："+integral*0.8);
 				break;
 			case 2:
-				System.out.println("打七折");
+				System.out.println("打七折"+"，实付金额："+integral*0.7);
 				break;
 			default:
-				System.out.println("打六折");
+				System.out.println("打六折"+"，实付金额："+integral*0.6);
 				break;
 			}
 			break;
